@@ -25,7 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) after running `npm run dev`
 ## 🔗 Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-arsa6789-black?style=for-the-badge&logo=github)](https://github.com/arsa6789)
-[![Portfolio](https://img.shields.io/badge/Portfolio-arsa6789-blue?style=for-the-badge)](https://github.com/arsa6789)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arsa6789-blue?style=for-the-badge)](http://shadowarsa.vercel.app/)
 
 ---
 
